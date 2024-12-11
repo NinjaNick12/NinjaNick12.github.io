@@ -1,4 +1,4 @@
-# Nicholas Nicholas Hsu's Portfolio
+# Nicholas Hsu's Portfolio
 
 I am a Electrical Engineering major at CSUF and I plan on graduating in 2028
 
